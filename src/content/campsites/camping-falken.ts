@@ -97,11 +97,6 @@ const campingFalken: CampsiteConfig = {
         image: { src: `${IMG}/feature-markt.webp`, alt: "Mini-Markt mit Snacks und Edelbränden am Camping Falken" },
       },
       {
-        title: "Maut-frei mit dem E-Auto",
-        text: "Mit unseren E-Mobilitäts-Cars fährst du mautfrei auf Felbertauern-, Glockner- und Dolomitenstraße.",
-        image: { src: `${IMG}/feature-eauto.webp`, alt: "E-Mobilitäts-Cars von Camping Falken vor der Bergkulisse" },
-      },
-      {
         title: "Zelt- & Jugendplatz",
         text: "Eigener Zelt- und Jugendplatz mit Bike Park und Trockendock — ideal für Radler und Wildwassersportler.",
         image: { src: `${IMG}/feature-zeltplatz.webp`, alt: "Zeltplatz mit Zelten und Bäumen am Camping Falken" },
